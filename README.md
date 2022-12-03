@@ -1,4 +1,4 @@
-# Tarea3
+# Tarea3-Angular-DESARROLLO DE INTERFACES RICOS PARA INTERNET
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
